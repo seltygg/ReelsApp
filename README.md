@@ -6,9 +6,6 @@ Additionally, a code structure inspired by the MVC (Model-View-Controller) archi
 
 # **:camera: Product Views:**
 
-## **:round_pushpin: Login & Register**
-
-  ![Group 1](https://github.com/azimgunes/TikTok-Clone/blob/main/Project%20Screens/1.png)
 
 ## **:round_pushpin: Feed & Explore**
 
